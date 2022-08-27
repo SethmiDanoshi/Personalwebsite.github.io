@@ -1,2 +1,2 @@
-# personalwebsite.html
+# personalwebsite.github.io
 
